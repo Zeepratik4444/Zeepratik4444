@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratik Kumar, @Zeepratik4444
 - 👀 I’m interested in solving problems with Machine Learning, Deep Learning  & Generative AI 
-- 💞️ I’m looking to collaborate on Projects on Deep Leanring & Generative AI
+- 💞️ I’m looking to collaborate on Projects on Deep Leaning & Generative AI
 - 📫 How to reach me zee.pratik4444@gmail.com
 
 - Data Scientist at Skillify Learning | Machine Learning, Deep Learning, Python , Power BI, SQL

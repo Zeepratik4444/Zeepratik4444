@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on Projects on Deep Leaning & Generative AI
 - 📫 How to reach me zee.pratik4444@gmail.com
 
-- Data Scientist| Machine Learning, Deep Learning, Large Language Models, Python , Power BI, SQL
+- Data Scientist| Machine Learning, Deep Learning, Generative AI, Large Language Models, Python , Power BI, SQL
 
 As a Data Scientist, I leverage my skills in Scala, AWS, and Azure to design and implement scalable and robust data pipelines and models. I work with cross-functional teams to understand the business requirements and translate them into data-driven solutions that enhance the user experience and engagement.
 
